@@ -1,0 +1,13 @@
+G:\Bridgelab\EmpWage\LineComparisonComputation\bin\Debug\netcoreapp3.1\LineComparisonComputation.exe
+G:\Bridgelab\EmpWage\LineComparisonComputation\bin\Debug\netcoreapp3.1\LineComparisonComputation.deps.json
+G:\Bridgelab\EmpWage\LineComparisonComputation\bin\Debug\netcoreapp3.1\LineComparisonComputation.runtimeconfig.json
+G:\Bridgelab\EmpWage\LineComparisonComputation\bin\Debug\netcoreapp3.1\LineComparisonComputation.runtimeconfig.dev.json
+G:\Bridgelab\EmpWage\LineComparisonComputation\bin\Debug\netcoreapp3.1\LineComparisonComputation.dll
+G:\Bridgelab\EmpWage\LineComparisonComputation\bin\Debug\netcoreapp3.1\LineComparisonComputation.pdb
+G:\Bridgelab\EmpWage\LineComparisonComputation\obj\Debug\netcoreapp3.1\LineComparisonComputation.csproj.AssemblyReference.cache
+G:\Bridgelab\EmpWage\LineComparisonComputation\obj\Debug\netcoreapp3.1\LineComparisonComputation.AssemblyInfoInputs.cache
+G:\Bridgelab\EmpWage\LineComparisonComputation\obj\Debug\netcoreapp3.1\LineComparisonComputation.AssemblyInfo.cs
+G:\Bridgelab\EmpWage\LineComparisonComputation\obj\Debug\netcoreapp3.1\LineComparisonComputation.csproj.CoreCompileInputs.cache
+G:\Bridgelab\EmpWage\LineComparisonComputation\obj\Debug\netcoreapp3.1\LineComparisonComputation.dll
+G:\Bridgelab\EmpWage\LineComparisonComputation\obj\Debug\netcoreapp3.1\LineComparisonComputation.pdb
+G:\Bridgelab\EmpWage\LineComparisonComputation\obj\Debug\netcoreapp3.1\LineComparisonComputation.genruntimeconfig.cache
