@@ -7,7 +7,6 @@ namespace LineComparisonComputation
         static void Main(string[] args)
         {
             Console.WriteLine("************Welcome To Line Comparison*******");
-            Console.WriteLine("************Welcome To Line Comparison*******");
             double length1;
             double length2;
             Random Number = new Random();
